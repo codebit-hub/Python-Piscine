@@ -1,6 +1,10 @@
 
 *This project has been created as part of the 42 curriculum by dporhomo.*
 
+![Score](https://img.shields.io/badge/Score-100%2F100-success?style=for-the-badge&logo=42)
+![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Completion Date](https://img.shields.io/badge/Completed-Jan%2026%2C%202026-orange?style=for-the-badge)
+
 ## Description
 The **Python Discovery Piscine** is an intensive introductory course designed to build a solid foundation in Python 3. Over nine modules, the project covers the essential building blocks of the language, ranging from basic syntax and data types to functional programming concepts and data manipulation.
 
